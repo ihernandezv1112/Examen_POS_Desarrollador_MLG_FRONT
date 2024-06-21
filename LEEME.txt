@@ -1,0 +1,3 @@
+El proyecto MLG-POS-FRONT se creó con la última versión de ANGULAR (versión 18).
+Se utilizaron herramientas como "tailwindcss" para los estilos de tabla y del login. La ruta de este mismo para la prueba
+de logueo es localhost/login
